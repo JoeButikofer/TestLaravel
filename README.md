@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Nitrous.IO
 
 Nitrous.IO enables you to develop web applications completely in the
@@ -65,3 +66,7 @@ by default, so you can start previewing your PHP applications by clicking "Previ
 "Port 3000". You can read more about PHP here:
 
 http://help.nitrous.io/php/
+=======
+TestLaravel
+===========
+>>>>>>> d151adca9f2802ade4ccfd70fcdbb9642f274d7a

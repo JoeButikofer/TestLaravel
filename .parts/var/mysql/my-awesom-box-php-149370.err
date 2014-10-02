@@ -257,3 +257,153 @@ Version: '5.6.13'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
 2014-10-02 10:50:26 478 [Note] Event Scheduler: Loaded 0 events
 2014-10-02 10:50:26 478 [Note] /home/action/.parts/packages/mysql/5.6.13/bin/mysqld: ready for connections.
 Version: '5.6.13'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+Killed
+141002 13:31:58 mysqld_safe Number of processes running now: 0
+141002 13:31:58 mysqld_safe mysqld restarted
+2014-10-02 13:31:59 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2014-10-02 13:31:59 626 [Note] Plugin 'FEDERATED' is disabled.
+2014-10-02 13:31:59 626 [Note] InnoDB: The InnoDB memory heap is disabled
+2014-10-02 13:31:59 626 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2014-10-02 13:31:59 626 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2014-10-02 13:31:59 626 [Note] InnoDB: Using CPU crc32 instructions
+2014-10-02 13:31:59 626 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2014-10-02 13:31:59 626 [Note] InnoDB: Completed initialization of buffer pool
+2014-10-02 13:32:00 626 [Note] InnoDB: Highest supported file format is Barracuda.
+2014-10-02 13:32:00 626 [Note] InnoDB: The log sequence numbers 1626027 and 1626027 in ibdata files do not match the log sequence number 1626037 in the ib_logfiles!
+2014-10-02 13:32:00 626 [Note] InnoDB: Database was not shutdown normally!
+2014-10-02 13:32:00 626 [Note] InnoDB: Starting crash recovery.
+2014-10-02 13:32:00 626 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2014-10-02 13:32:00 626 [Note] InnoDB: Restoring possible half-written data pages 
+2014-10-02 13:32:00 626 [Note] InnoDB: from the doublewrite buffer...
+2014-10-02 13:32:00 626 [Note] InnoDB: 128 rollback segment(s) are active.
+2014-10-02 13:32:00 626 [Note] InnoDB: Waiting for purge to start
+2014-10-02 13:32:00 626 [Note] InnoDB: 5.6.13 started; log sequence number 1626037
+2014-10-02 13:32:00 626 [Note] RSA private key file not found: /home/action/.parts/var/mysql//private_key.pem. Some authentication plugins will not work.
+2014-10-02 13:32:00 626 [Note] RSA public key file not found: /home/action/.parts/var/mysql//public_key.pem. Some authentication plugins will not work.
+2014-10-02 13:32:00 626 [Note] Server hostname (bind-address): '*'; port: 3306
+2014-10-02 13:32:00 626 [Note] IPv6 is available.
+2014-10-02 13:32:00 626 [Note]   - '::' resolves to '::';
+2014-10-02 13:32:00 626 [Note] Server socket created on IP: '::'.
+2014-10-02 13:32:00 626 [Note] Event Scheduler: Loaded 0 events
+2014-10-02 13:32:00 626 [Note] /home/action/.parts/packages/mysql/5.6.13/bin/mysqld: ready for connections.
+Version: '5.6.13'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+Killed
+141002 13:32:02 mysqld_safe Number of processes running now: 0
+141002 13:32:02 mysqld_safe mysqld restarted
+2014-10-02 13:32:05 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2014-10-02 13:32:05 663 [Note] Plugin 'FEDERATED' is disabled.
+2014-10-02 13:32:05 663 [Note] InnoDB: The InnoDB memory heap is disabled
+2014-10-02 13:32:05 663 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2014-10-02 13:32:05 663 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2014-10-02 13:32:05 663 [Note] InnoDB: Using CPU crc32 instructions
+2014-10-02 13:32:05 663 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2014-10-02 13:32:05 663 [Note] InnoDB: Completed initialization of buffer pool
+2014-10-02 13:32:05 663 [Note] InnoDB: Highest supported file format is Barracuda.
+2014-10-02 13:32:05 663 [Note] InnoDB: The log sequence numbers 1626027 and 1626027 in ibdata files do not match the log sequence number 1626047 in the ib_logfiles!
+2014-10-02 13:32:05 663 [Note] InnoDB: Database was not shutdown normally!
+2014-10-02 13:32:05 663 [Note] InnoDB: Starting crash recovery.
+2014-10-02 13:32:05 663 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2014-10-02 13:32:05 663 [Note] InnoDB: Restoring possible half-written data pages 
+2014-10-02 13:32:05 663 [Note] InnoDB: from the doublewrite buffer...
+2014-10-02 13:32:05 663 [Note] InnoDB: 128 rollback segment(s) are active.
+2014-10-02 13:32:05 663 [Note] InnoDB: Waiting for purge to start
+2014-10-02 13:32:05 663 [Note] InnoDB: 5.6.13 started; log sequence number 1626047
+2014-10-02 13:32:05 663 [Note] RSA private key file not found: /home/action/.parts/var/mysql//private_key.pem. Some authentication plugins will not work.
+2014-10-02 13:32:05 663 [Note] RSA public key file not found: /home/action/.parts/var/mysql//public_key.pem. Some authentication plugins will not work.
+2014-10-02 13:32:05 663 [Note] Server hostname (bind-address): '*'; port: 3306
+2014-10-02 13:32:05 663 [Note] IPv6 is available.
+2014-10-02 13:32:05 663 [Note]   - '::' resolves to '::';
+2014-10-02 13:32:05 663 [Note] Server socket created on IP: '::'.
+2014-10-02 13:32:05 663 [Note] Event Scheduler: Loaded 0 events
+2014-10-02 13:32:05 663 [Note] /home/action/.parts/packages/mysql/5.6.13/bin/mysqld: ready for connections.
+Version: '5.6.13'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+Killed
+141002 13:36:35 mysqld_safe Number of processes running now: 0
+141002 13:36:35 mysqld_safe mysqld restarted
+2014-10-02 13:36:37 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2014-10-02 13:36:37 799 [Note] Plugin 'FEDERATED' is disabled.
+2014-10-02 13:36:37 799 [Note] InnoDB: The InnoDB memory heap is disabled
+2014-10-02 13:36:37 799 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2014-10-02 13:36:37 799 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2014-10-02 13:36:37 799 [Note] InnoDB: Using CPU crc32 instructions
+2014-10-02 13:36:37 799 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2014-10-02 13:36:37 799 [Note] InnoDB: Completed initialization of buffer pool
+2014-10-02 13:36:37 799 [Note] InnoDB: Highest supported file format is Barracuda.
+2014-10-02 13:36:37 799 [Note] InnoDB: The log sequence numbers 1626027 and 1626027 in ibdata files do not match the log sequence number 1626057 in the ib_logfiles!
+2014-10-02 13:36:37 799 [Note] InnoDB: Database was not shutdown normally!
+2014-10-02 13:36:37 799 [Note] InnoDB: Starting crash recovery.
+2014-10-02 13:36:37 799 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2014-10-02 13:36:37 799 [Note] InnoDB: Restoring possible half-written data pages 
+2014-10-02 13:36:37 799 [Note] InnoDB: from the doublewrite buffer...
+2014-10-02 13:36:37 799 [Note] InnoDB: 128 rollback segment(s) are active.
+2014-10-02 13:36:37 799 [Note] InnoDB: Waiting for purge to start
+2014-10-02 13:36:37 799 [Note] InnoDB: 5.6.13 started; log sequence number 1626057
+2014-10-02 13:36:37 799 [Note] RSA private key file not found: /home/action/.parts/var/mysql//private_key.pem. Some authentication plugins will not work.
+2014-10-02 13:36:37 799 [Note] RSA public key file not found: /home/action/.parts/var/mysql//public_key.pem. Some authentication plugins will not work.
+2014-10-02 13:36:37 799 [Note] Server hostname (bind-address): '*'; port: 3306
+2014-10-02 13:36:37 799 [Note] IPv6 is available.
+2014-10-02 13:36:37 799 [Note]   - '::' resolves to '::';
+2014-10-02 13:36:37 799 [Note] Server socket created on IP: '::'.
+2014-10-02 13:36:37 799 [Note] Event Scheduler: Loaded 0 events
+2014-10-02 13:36:37 799 [Note] /home/action/.parts/packages/mysql/5.6.13/bin/mysqld: ready for connections.
+Version: '5.6.13'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+Killed
+141002 13:37:31 mysqld_safe Number of processes running now: 0
+141002 13:37:31 mysqld_safe mysqld restarted
+2014-10-02 13:37:36 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2014-10-02 13:37:36 889 [Note] Plugin 'FEDERATED' is disabled.
+2014-10-02 13:37:36 889 [Note] InnoDB: The InnoDB memory heap is disabled
+2014-10-02 13:37:36 889 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2014-10-02 13:37:36 889 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2014-10-02 13:37:36 889 [Note] InnoDB: Using CPU crc32 instructions
+2014-10-02 13:37:36 889 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2014-10-02 13:37:36 889 [Note] InnoDB: Completed initialization of buffer pool
+2014-10-02 13:37:36 889 [Note] InnoDB: Highest supported file format is Barracuda.
+2014-10-02 13:37:36 889 [Note] InnoDB: The log sequence numbers 1626027 and 1626027 in ibdata files do not match the log sequence number 1626067 in the ib_logfiles!
+2014-10-02 13:37:36 889 [Note] InnoDB: Database was not shutdown normally!
+2014-10-02 13:37:36 889 [Note] InnoDB: Starting crash recovery.
+2014-10-02 13:37:36 889 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2014-10-02 13:37:36 889 [Note] InnoDB: Restoring possible half-written data pages 
+2014-10-02 13:37:36 889 [Note] InnoDB: from the doublewrite buffer...
+2014-10-02 13:37:37 889 [Note] InnoDB: 128 rollback segment(s) are active.
+2014-10-02 13:37:37 889 [Note] InnoDB: Waiting for purge to start
+2014-10-02 13:37:37 889 [Note] InnoDB: 5.6.13 started; log sequence number 1626067
+2014-10-02 13:37:37 889 [Note] RSA private key file not found: /home/action/.parts/var/mysql//private_key.pem. Some authentication plugins will not work.
+2014-10-02 13:37:37 889 [Note] RSA public key file not found: /home/action/.parts/var/mysql//public_key.pem. Some authentication plugins will not work.
+2014-10-02 13:37:37 889 [Note] Server hostname (bind-address): '*'; port: 3306
+2014-10-02 13:37:37 889 [Note] IPv6 is available.
+2014-10-02 13:37:37 889 [Note]   - '::' resolves to '::';
+2014-10-02 13:37:37 889 [Note] Server socket created on IP: '::'.
+2014-10-02 13:37:37 889 [Note] Event Scheduler: Loaded 0 events
+2014-10-02 13:37:37 889 [Note] /home/action/.parts/packages/mysql/5.6.13/bin/mysqld: ready for connections.
+Version: '5.6.13'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+Killed
+141002 13:37:38 mysqld_safe Number of processes running now: 0
+141002 13:37:38 mysqld_safe mysqld restarted
+2014-10-02 13:37:40 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2014-10-02 13:37:40 928 [Note] Plugin 'FEDERATED' is disabled.
+2014-10-02 13:37:40 928 [Note] InnoDB: The InnoDB memory heap is disabled
+2014-10-02 13:37:40 928 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2014-10-02 13:37:40 928 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2014-10-02 13:37:40 928 [Note] InnoDB: Using CPU crc32 instructions
+2014-10-02 13:37:40 928 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2014-10-02 13:37:40 928 [Note] InnoDB: Completed initialization of buffer pool
+2014-10-02 13:37:40 928 [Note] InnoDB: Highest supported file format is Barracuda.
+2014-10-02 13:37:40 928 [Note] InnoDB: The log sequence numbers 1626027 and 1626027 in ibdata files do not match the log sequence number 1626067 in the ib_logfiles!
+2014-10-02 13:37:40 928 [Note] InnoDB: Database was not shutdown normally!
+2014-10-02 13:37:40 928 [Note] InnoDB: Starting crash recovery.
+2014-10-02 13:37:40 928 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2014-10-02 13:37:40 928 [Note] InnoDB: Restoring possible half-written data pages 
+2014-10-02 13:37:40 928 [Note] InnoDB: from the doublewrite buffer...
+2014-10-02 13:37:40 928 [Note] InnoDB: 128 rollback segment(s) are active.
+2014-10-02 13:37:41 928 [Note] InnoDB: Waiting for purge to start
+2014-10-02 13:37:41 928 [Note] InnoDB: 5.6.13 started; log sequence number 1626067
+2014-10-02 13:37:41 928 [Note] RSA private key file not found: /home/action/.parts/var/mysql//private_key.pem. Some authentication plugins will not work.
+2014-10-02 13:37:41 928 [Note] RSA public key file not found: /home/action/.parts/var/mysql//public_key.pem. Some authentication plugins will not work.
+2014-10-02 13:37:41 928 [Note] Server hostname (bind-address): '*'; port: 3306
+2014-10-02 13:37:41 928 [Note] IPv6 is available.
+2014-10-02 13:37:41 928 [Note]   - '::' resolves to '::';
+2014-10-02 13:37:41 928 [Note] Server socket created on IP: '::'.
+2014-10-02 13:37:41 928 [Note] Event Scheduler: Loaded 0 events
+2014-10-02 13:37:41 928 [Note] /home/action/.parts/packages/mysql/5.6.13/bin/mysqld: ready for connections.
+Version: '5.6.13'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
