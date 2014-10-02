@@ -1,0 +1,23 @@
+[Sun Apr 27 07:37:50.630877 2014] [mpm_event:notice] [pid 1176:tid 140571207104256] AH00489: Apache/2.4.7 (Unix) PHP/5.5.11 configured -- resuming normal operations
+[Sun Apr 27 07:37:50.630966 2014] [core:notice] [pid 1176:tid 140571207104256] AH00094: Command line: '/home/action/.parts/packages/apache2/2.4.7-nitrous1/bin/httpd'
+[Fri Sep 26 11:08:14.410625 2014] [mpm_event:notice] [pid 363:tid 140518790276864] AH00489: Apache/2.4.7 (Unix) PHP/5.5.11 configured -- resuming normal operations
+[Fri Sep 26 11:08:14.410830 2014] [core:notice] [pid 363:tid 140518790276864] AH00094: Command line: '/home/action/.parts/packages/apache2/2.4.7-nitrous1/bin/httpd'
+[Fri Sep 26 14:00:45.354645 2014] [mpm_event:notice] [pid 363:tid 140518790276864] AH00491: caught SIGTERM, shutting down
+[Mon Sep 29 12:30:42.381334 2014] [mpm_event:notice] [pid 353:tid 140475383293696] AH00489: Apache/2.4.7 (Unix) PHP/5.5.11 configured -- resuming normal operations
+[Mon Sep 29 12:30:42.381545 2014] [core:notice] [pid 353:tid 140475383293696] AH00094: Command line: '/home/action/.parts/packages/apache2/2.4.7-nitrous1/bin/httpd'
+[Mon Sep 29 12:35:24.708112 2014] [mpm_event:notice] [pid 353:tid 140475383293696] AH00491: caught SIGTERM, shutting down
+[Mon Sep 29 12:35:45.446724 2014] [mpm_event:notice] [pid 356:tid 140581549483776] AH00489: Apache/2.4.7 (Unix) PHP/5.5.11 configured -- resuming normal operations
+[Mon Sep 29 12:35:45.446919 2014] [core:notice] [pid 356:tid 140581549483776] AH00094: Command line: '/home/action/.parts/packages/apache2/2.4.7-nitrous1/bin/httpd'
+[Mon Sep 29 12:35:48.448733 2014] [mpm_event:error] [pid 356:tid 140581549483776] AH00484: server reached MaxRequestWorkers setting, consider raising the MaxRequestWorkers setting
+[Mon Sep 29 12:36:38.831135 2014] [mpm_event:notice] [pid 356:tid 140581549483776] AH00491: caught SIGTERM, shutting down
+[Mon Sep 29 12:37:00.488654 2014] [mpm_event:notice] [pid 357:tid 140263788844800] AH00489: Apache/2.4.7 (Unix) PHP/5.5.11 configured -- resuming normal operations
+[Mon Sep 29 12:37:00.488845 2014] [core:notice] [pid 357:tid 140263788844800] AH00094: Command line: '/home/action/.parts/packages/apache2/2.4.7-nitrous1/bin/httpd'
+[Mon Sep 29 14:00:31.905348 2014] [mpm_event:notice] [pid 357:tid 140263788844800] AH00491: caught SIGTERM, shutting down
+[Thu Oct 02 10:50:24.642135 2014] [mpm_event:notice] [pid 350:tid 139873769424640] AH00489: Apache/2.4.7 (Unix) PHP/5.5.11 configured -- resuming normal operations
+[Thu Oct 02 10:50:24.643041 2014] [core:notice] [pid 350:tid 139873769424640] AH00094: Command line: '/home/action/.parts/packages/apache2/2.4.7-nitrous1/bin/httpd'
+[Thu Oct 02 11:50:56.737247 2014] [mpm_event:error] [pid 350:tid 139873769424640] AH00484: server reached MaxRequestWorkers setting, consider raising the MaxRequestWorkers setting
+[Thu Oct 02 11:56:03.026034 2014] [:error] [pid 459:tid 139873436550912] [client 192.168.220.1:59742] PHP Fatal error:  Class 'BasController' not found in /home/action/workspace/test/app/controllers/UserController.php on line 3
+[Thu Oct 02 11:57:08.663762 2014] [:error] [pid 459:tid 139873461729024] [client 192.168.220.1:60460] PHP Fatal error:  Class 'BasController' not found in /home/action/workspace/test/app/controllers/UserController.php on line 3
+[Thu Oct 02 11:58:06.627955 2014] [:error] [pid 459:tid 139873453336320] [client 192.168.220.1:34147] PHP Fatal error:  Class 'BasController' not found in /home/action/workspace/test/app/controllers/UserController.php on line 3
+[Thu Oct 02 11:58:13.025384 2014] [:error] [pid 459:tid 139873444943616] [client 192.168.220.1:34917] PHP Fatal error:  Class 'BasController' not found in /home/action/workspace/test/app/controllers/UserController.php on line 3
+[Thu Oct 02 11:58:14.109750 2014] [:error] [pid 459:tid 139873436550912] [client 192.168.220.1:35040] PHP Fatal error:  Class 'BasController' not found in /home/action/workspace/test/app/controllers/UserController.php on line 3
